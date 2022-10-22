@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Javedzuck12
-- 👀 I’m interested in machine learning and Robotics
-- 🌱 I’m currently learning c and python...
-- 💞️ I’m looking to collaborate on @elon...
+- 👀  Interested in machine learning and Robotics
+- 🌱  currently learning c and python...
+- 💞️ I’m looking to collaborate with some  experstise and developer and robotics
 - 📫 How to reach me @silen_killer8 personal instagram id
 
 <!---
