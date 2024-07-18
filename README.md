@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @silentzuck12
+- 👋 Hi, I’m @zabeth
+- 
 - 👀  Interested in machine learning and Robotics
-- 🌱  currently learning c and python...
+- 🌱Currently pursuing CS
 - 💞️ I’m looking to collaborate with some  experstise and developer and robotics
 - 📫 How to reach me @silen_killer8 personal instagram id
 
